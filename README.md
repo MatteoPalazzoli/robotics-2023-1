@@ -1,5 +1,7 @@
 # Robotics 2022/2023 first project
-First project of the Robotics course at Polimi during academic year 2022-2023. The complete instructions are provided in the PDF in this repository.  
+First project of the Robotics course at Polimi during academic year 2022-2023.  
+Grade: **3/3**  
+The complete instructions are provided in the PDF in this repository.  
 Summary of the project:  
 Find the odometry of the EazyMile EZ10, vehicle with four wheels and autonomous guide. Front steer only.  
 Data provided: wheel speed and steer angle, in bag file.
